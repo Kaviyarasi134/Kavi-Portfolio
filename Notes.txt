@@ -1,0 +1,27 @@
+Cyber Dude : 
+
+Day 3 Part 1:
+
+Web site --> Just see the Message No Logic Involved 
+
+Web app --> Its Logic Involved Like Zoho CRM or Zoho Creator 
+
+Task 1 :
+
+Portfolio Creation:
+
+CSS Style --> Inline CSS, internal CSS , External CSS 
+
+Inline CSs --> tag la Ctrl Space 
+
+aria --> ethukaga use pantrom na Handicap Read Pananum apdikarathukaga kudukarathu
+
+So many attributes Available 
+
+<h1 title="this is title">This is My Wonderful Portfolio</h1>
+
+<h1 style="color: blanchedalmond;">This is My Wonderful Portfolio</h1>
+
+Comment Pantrathuku --> Ctrl + /
+
+
