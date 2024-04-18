@@ -33,3 +33,93 @@ Git --> Code Version System
 
 Advantages -->can share the link 
 
+git --version
+
+git init
+
+files --> showing Green side 
+
+that means untrack 
+
+clear
+
+when ever git folder --> Not Show --> goto View --> options --> show hidden folder
+
+that time its shows a git folder
+
+U --> Untracked
+
+git add file name / .
+ A--> added
+
+git commit -m ""this is My Portfolio Page "
+
+
+github :
+
+Credentialsa
+
+Email : kaviyarasiponnan@gmail.com
+Pwd : Thenkavi@123
+
+When our we use a Repo
+
+you can give mit LIcense --> Its Common
+
+https://github.com/Kaviyarasi134/Kavi-Portfolio.git
+
+git remote add origin https://github.com/Kaviyarasi134/Kavi-Portfolio.git
+
+git remote -v   // its checking all fixed or Not 
+
+git push -u origin master   --> All Set 
+
+when ever want to continue the Project to take from git 
+
+git clone // copy the Repo git hub to Local Systems 
+
+git Pull --> when your team done any  changes. you can pull the data --> github to Local Systems 
+
+Pls Note :
+
+If any design you can take Its Image or PDF 
+
+you can easily find the Font using Font finder
+
+you can Segregate header using different Div 
+
+after that default setting we need to off using reset method in CSS
+
+Cmt --> Key --> ctrl +A and Ctrl + /
+
+
+When ever you want to take a code with image --> right click --> Goto inspect --> click Background-->
+color Picker --> click that image --> take the Hexa code. 
+
+padding : top right bottom left
+
+padding : TB RL;
+
+color : #ff0000;  //RRGGBB
+
+Header ah Oru line Kondu varathu Flex la Panalam 
+
+when i will use display : flex; //to arrage all child in One line 
+
+justify content : space -around ; // Mainly focus for the Space Alignment
+
+attributes check --> ctrl +space 
+
+space around --> attribues even ah space irukum 
+space between --> left and right No space but need a center space 
+Space even --> Evenly taken 
+
+
+Need to know about flex Directions to get a better claity 
+
+How to choose a color like Contrast code --> inspect la select the particular element --> Its Good Means showing green tick otherwise its showing warning Messgae 
+
+Vertical ah align aagnum --> every item --> to give the align-tem : Center;
+
+
+color selections : 

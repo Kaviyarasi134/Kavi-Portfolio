@@ -1,3 +1,72 @@
-h1{
-    color: green;
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+/* Global Variables */
+:root{
+    --primary:#12bdff;
+    --dark-primary:#1b1f24;
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Nunito Sans", sans-serif;
+    ;
+}
+
+header{
+    background-color: var(--dark-primary);
+    padding: 10px 20px 30px 40px;
+    color:#fff;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+header button{
+    padding: 10px 20px;
+    background-color: var(--dark-primary);
+    font-weight: bold;
+    border: 1px solid var(--primary);
+    color: var(--primary);
+    border-radius: 5px;
+}
+
+header button:hover{
+    cursor: pointer;
+    background-color: var(--primary);
+    color: #fff;
+}
+
+header .logo{
+    color: var(--primary);
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+header a{
+    text-decoration: none;
+}
+header a .sam:hover{
+    color: #fff;
+    font-weight: bold;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+ul li{
+    padding: 20px;
+}
+
+ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    color: var(--primary);
+    font-weight: bold;
+}
+
