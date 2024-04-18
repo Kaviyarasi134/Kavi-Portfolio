@@ -24,4 +24,12 @@ So many attributes Available
 
 Comment Pantrathuku --> Ctrl + /
 
+<link rel="stylesheet" href="./assets/css/style.css">
+
+". " --> Current Directory 
+above Link Declaration is Correct way 
+
+Git --> Code Version System 
+
+Advantages -->can share the link 
 
